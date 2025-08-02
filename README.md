@@ -41,7 +41,7 @@ Beautifully designed with soft pastel themes and real-time JavaScript interactio
 
 > Deployed via GitHub Pages:
 
-🔗 [Click to View Live](https://your-username.github.io/key-code-visualizer)
+🔗 [Click to View Live](https://ayaanhash.github.io/Project-1-Key-Codes-/)
 
 ---
 
